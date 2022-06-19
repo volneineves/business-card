@@ -14,7 +14,7 @@
         android:src="@drawable/ic_close"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:contentDescription="@string/cp_close_button" />
+        android:contentDescription="@string/cp_image_card" />
 
     <TextView
         android:id="@+id/tv_title"
