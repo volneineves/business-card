@@ -1,10 +1,24 @@
-﻿# DIO: Business Card
+# DIO: Business Card
 
 ![Logo do Markdown](./assets/mobile.png)
 
 ## :computer: Sobre
 
-Aplicativo de lista de cartão de visita onde é possível manter os dados nome, empresa, telefone de contato, email e cor de fundo do cartão utilizando banco de dados Room.
+Aplicativo que cria e lista cartões de visita. Nele é possível ver um cartão com os seguintes dados:
+1. <b>Nome
+2. <b>Telefone
+3. <b>E-mail
+4. <b>Empresa
+5. <b>Cor
+
+### Foi implementado
+1. <b>ViewBinding
+1. <b>MVVM
+1. <b>Material Design
+1. <b>ListAdapter
+1. <b>Room
+1. <b>LiveData
+
 
 ### :keyboard: Instalação e Execução do Projeto
 
